@@ -1,0 +1,5 @@
+﻿  oop_UnitTest_2.3.cpp
+     Создается библиотека C:\Users\apple\source\repos\oop_laba_2.3\Debug\oop_UnitTest_2.3.lib и объект C:\Users\apple\source\repos\oop_laba_2.3\Debug\oop_UnitTest_2.3.exp
+oop_UnitTest_2.3.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall Fraction::set_a(unsigned int)" (?set_a@Fraction@@QAEXI@Z) в функции "public: void __thiscall oopUnitTest23::oopUnitTest23::TestMethod1(void)" (?TestMethod1@oopUnitTest23@1@QAEXXZ).
+oop_UnitTest_2.3.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Fraction::Fraction(void)" (??0Fraction@@QAE@XZ) в функции "public: void __thiscall oopUnitTest23::oopUnitTest23::TestMethod1(void)" (?TestMethod1@oopUnitTest23@1@QAEXXZ).
+C:\Users\apple\source\repos\oop_laba_2.3\Debug\oop_UnitTest_2.3.dll : fatal error LNK1120: неразрешенных внешних элементов: 2
